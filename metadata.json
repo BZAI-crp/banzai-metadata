@@ -2,7 +2,7 @@
   "name": "BANZAI",
   "symbol": "BZAI",
   "description": "BANZAI (BZAI) is a community-focused digital token project being developed on Solana. Its identity is built around the BANZAI ARMY community and a bold black-and-gold visual style. The token is currently being tested on a local Solana validator; no mainnet deployment is claimed.",
-  "image": "https://raw.githubusercontent.com/BZAI-crp/banzai-metadata/main/logo.png",
+  "image": "https://raw.githubusercontent.com/BZAI-crp/banzai-metadata/main/Macaco%20Dourado%20BANZAI%20em%20Estilo%20Mascote.png",
   "external_url": "https://github.com/BZAI-crp/banzai-metadata",
   "attributes": [
     {
@@ -26,7 +26,7 @@
     "category": "image",
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/BZAI-crp/banzai-metadata/main/logo.png",
+        "uri": "https://raw.githubusercontent.com/BZAI-crp/banzai-metadata/main/Macaco%20Dourado%20BANZAI%20em%20Estilo%20Mascote.png",
         "type": "image/png"
       }
     ]
