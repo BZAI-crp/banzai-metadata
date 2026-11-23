@@ -13,4 +13,4 @@ The token mint currently being tested is on a local Solana validator. This repos
 ## Files
 
 - `metadata.json` — token metadata document
-- `logo.png` — official project logo (to be uploaded)
+- `Macaco Dourado BANZAI em Estilo Mascote.png` — official black-and-gold BANZAI mascot logo
